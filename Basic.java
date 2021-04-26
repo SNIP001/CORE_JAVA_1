@@ -1,5 +1,5 @@
-//static-= class level
-// non-static= object level
+//static-> class level
+// non-static-> object level
 
 //banking example
 // NON-STATIC----accountBalance , withdrawl() , checkBalance() 
